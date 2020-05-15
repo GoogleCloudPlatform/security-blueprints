@@ -1,4 +1,4 @@
-# New Project Template
+# Google Cloud Security Blueprints 
 
 This repository contains security blueprint templates.
 
